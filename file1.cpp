@@ -11,3 +11,8 @@ if (r >= 60)
 else 
     return "Gagal";
 }
+
+int main(){
+    float nilBI,nilMT,rerata;
+    string status;
+}
